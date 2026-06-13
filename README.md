@@ -3,8 +3,8 @@
 **Worked on by:** Muhammad Memon & Aamir Khan
 **Course:** EE 243, University of California, Riverside
 
-**[Full Report (PDF)](EE243_Final_Project.pdf)**
-**Demo Video:** [YouTube](https://youtu.be/WfdSfl_S8Sk) · [Google Drive backup](https://drive.google.com/file/d/134bAyWQVPON9tZ8lCDbDwC6y0TW-KvmN/view?usp=share_link)
+**[Full Report (PDF)](EE243_Final_Project.pdf)**  
+**Demo Video:** [YouTube](https://youtu.be/WfdSfl_S8Sk) | [Google Drive backup](https://drive.google.com/file/d/134bAyWQVPON9tZ8lCDbDwC6y0TW-KvmN/view?usp=share_link)
 
 ---
 
